@@ -12,7 +12,7 @@ public class VerifyKidsProduct extends BaseTest{
 	public void createProduct() {
 	Reporter.log("Kids Product Created",true);	
 		
-	}
+	}1
 	
 	
 	
